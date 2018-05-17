@@ -1,2 +1,2 @@
 # lil-bits
-Bare-bones React starter kit
+Bare-bones React starter kit from scratch.
